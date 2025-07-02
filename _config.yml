@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Sanket S Houde"
 title_separator          : "-"
-name                     : &name "Sanket"
-description              : &description "personal description"
+name                     : &name "Sanket Houde"
+description              : &description "A cognitive neuroscientist in training"
 url                      : https://sanket-dse.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sanket-dse.github.io"
@@ -23,22 +23,22 @@ repository               : "sanket-dse.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sanket S Houde"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A cognitive neuroscientist in training"
+  location         : "Kanpur, India"
+  employer         : "Indian Institute of Technology (IIT) Kanpur"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sankethoude@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=f66NorkAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,22 +46,22 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sanket-dse"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "sanket_houde" # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "sanket-houde-neuroscience" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
